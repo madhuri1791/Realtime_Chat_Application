@@ -1,1 +1,1 @@
-# Realtime_Chat_Application
+This is Realtime chat Application Project Developed using React JS and Socket IO
